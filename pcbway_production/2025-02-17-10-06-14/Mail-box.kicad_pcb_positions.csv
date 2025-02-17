@@ -1,0 +1,42 @@
+﻿pos_x,pos_y,rotation,side,designator,mpn,pack,footprint,value,mount_type,place
+128.24,-83.78,0.0,top,3V1,,,TestPoint_Pad_D1.0mm,TestPoint,tht,True
+111.0,-111.15,180.0,top,BZ1,,,Buzzer_12x9.5RM7.6,Buzzer,tht,True
+85.14,-101.01,90.0,top,C1,,,C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,100nF,smt,True
+90.8,-92.33,90.0,top,C10,,,C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,100nF,smt,True
+88.32,-101.05,90.0,top,C2,,,C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,100nF,smt,True
+104.45,-100.86,0.0,top,C3,,,C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,10nF,smt,True
+100.61,-93.86,90.0,top,C4,,,C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,100nF,smt,True
+108.53,-96.96,0.0,top,C5,,,C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,10uF,smt,True
+123.53,-81.69,180.0,top,C6,,,C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,100nF,smt,True
+114.37,-76.57,180.0,top,C7,,,C_Elec_8x10.2,1000uF,smt,True
+122.5,-108.5,-90.0,top,C8,,,C_Elec_8x10.2,1000uF,smt,True
+86.89,-96.4,0.0,top,C9,,,C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,DNP,smt,True
+133.71,-74.18,180.0,top,F1,,,R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal,250mA,tht,True
+86.7825,-120.63,90.0,top,J1,,,JST_EH_S2B-EH_1x02_P2.50mm_Horizontal,Sensor,tht,True
+109.24,-122.31,0.0,top,J2,,,JST_EH_B2B-EH-A_1x02_P2.50mm_Vertical,Blue LED,tht,True
+119.59,-122.43,0.0,top,J3,,,JST_EH_B2B-EH-A_1x02_P2.50mm_Vertical,Reset button,tht,True
+130.03,-122.3,0.0,top,J4,,,JST_EH_B2B-EH-A_1x02_P2.50mm_Vertical,Red LED,tht,True
+154.52,-74.12,-90.0,top,J5,,,JST_EH_S2B-EH_1x02_P2.50mm_Horizontal,LiPo cell,tht,True
+86.71,-109.97,0.0,top,JP1,,,SolderJumper-3_P1.3mm_Open_RoundedPad1.0x1.5mm,SolderJumper_3_Open,tht,False
+96.5675,-91.95,90.0,top,Q1,,,SOT-23,A03400,smt,True
+123.6,-78.36,90.0,top,Q2,,,SOT-23,AO3401A,smt,True
+81.01,-88.16,-90.0,top,R1,,,R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,10M,smt,True
+139.58,-91.71,0.0,top,R10,,,R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,10K,smt,True
+104.45,-96.94,0.0,top,R11,,,R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,620K,smt,True
+103.5,-92.28,90.0,top,R12,,,R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,10K,smt,True
+139.59,-101.82,0.0,top,R13,,,R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,1K,smt,True
+129.49,-89.94,180.0,top,R14,,,R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,47K,smt,True
+129.47,-92.26,0.0,top,R15,,,R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,27K,smt,True
+83.25,-88.09,90.0,top,R2,,,R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,1M3,smt,True
+129.42,-94.38,180.0,top,R3,,,R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,180K,smt,True
+87.8,-105.4,180.0,top,R6,,,R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,10K,smt,True
+139.62,-94.3,180.0,top,R7,,,R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,1K,smt,True
+92.59,-97.21,-90.0,top,R8,,,R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,220K,smt,True
+92.47,-101.72,90.0,top,R9,,,R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,47K,smt,True
+82.1,-94.38,90.0,top,RV1,,,Potentiometer_Vishay_TS53YL_Vertical,200K,smt,True
+123.72,-91.03,0.0,top,RV2,,,Potentiometer_Vishay_TS53YL_Vertical,10K,smt,True
+86.78,-93.28,-90.0,top,U1,,,TSOP-6_1.65x3.05mm_P0.95mm,NCV308ADJ,smt,True
+98.155,-98.855,0.0,top,U2,,,SOIC-8_3.9x4.9mm_P1.27mm,ICM7555xB,smt,True
+134.525,-89.18,0.0,top,U3,,,WEMOS_D1_mini_light,WEMOS D1 mini V4,tht,True
+123.5625,-97.35,0.0,top,U4,,,SOT-23-5,TPS73101DBV,smt,True
+113.82,-100.49,180.0,top,U5,,,PinSocket_1x07_P2.54mm_Vertical,LoRa_E32_433T20D,tht,True
